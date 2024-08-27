@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:simple_application/screens/menus.dart';
+import 'package:simple_application/screens/convert.dart';
 
 void main() {
   runApp(MaterialApp(
     title: "simple app",
     home: Scaffold(
       appBar: AppBar(
-        title: Text("Simple App"),
+        title: const Text("Simple App"),
       ),
-      body: Menus(),
+      body: const Convert(),
     ),
   ));
 }
