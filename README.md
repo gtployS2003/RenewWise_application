@@ -17,7 +17,10 @@
 
 - **Frontend**: Flutter  
 - **State Management**: Provider  
-- **Weather Data API**: OpenWeatherMap  
+- **Weather Data API**: OpenWeatherMap
+
+##  Overview
+![product_overview](https://drive.google.com/file/d/1C9PNo-aptC27Ns5Xb2Cua8656_8OUAY3/view?usp=drive_link)
 
 ## 🗃️ โครงสร้างฐานข้อมูล
 
