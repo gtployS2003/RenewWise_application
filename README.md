@@ -20,7 +20,7 @@
 - **Weather Data API**: OpenWeatherMap
 
 ##  Overview
-![product_overview](https://drive.google.com/file/d/1C9PNo-aptC27Ns5Xb2Cua8656_8OUAY3/view?usp=drive_link)
+![product_overview](assets/4.png)
 
 ## 🗃️ โครงสร้างฐานข้อมูล
 
