@@ -1,4 +1,4 @@
-# simple_application
+# RenewWise application
 
 A new Flutter project.
 
